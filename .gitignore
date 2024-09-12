@@ -1,0 +1,39 @@
+# Python
+__pycache__
+
+# PyCharm
+.idea
+
+# data
+/data/*
+
+# AttackAssist
+!/data/AttackAssist.TibetanWord2Vec
+!/data/AttackAssist.Tibetan-BERT/README.md
+!/data/AttackAssist.TiBERT/README.md
+!/data/AttackAssist.TibetSegEYE/README.md
+!/data/AttackAssist.TibetSegEYE/biotype.txt
+!/data/AttackAssist.TibetSegEYE/rec_dict_rset2.txt
+!/data/AttackAssist.TibetSegEYE/vocab.txt
+!/data/AttackAssist.TibetanSyllableVisualSimilarityDatabase
+!/data/AttackAssist.TibetanExtensionBasicTable
+
+# Dataset
+!/data/Dataset.Loader
+!/data/Dataset.TU_SA
+!/data/Dataset.TNCC-title
+!/data/Dataset.TNCC-document
+
+# Victim
+!/data/Victim.BERT.Tibetan-BERT+TU_SA/README.md
+!/data/Victim.BERT.Tibetan-BERT+TNCC-title/README.md
+!/data/Victim.BERT.Tibetan-BERT+TNCC-document/README.md
+!/data/Victim.XLM-RoBERTa.CINO-small-v2+TU_SA/README.md
+!/data/Victim.XLM-RoBERTa.CINO-small-v2+TNCC-title/README.md
+!/data/Victim.XLM-RoBERTa.CINO-small-v2+TNCC-document/README.md
+!/data/Victim.XLM-RoBERTa.CINO-base-v2+TU_SA/README.md
+!/data/Victim.XLM-RoBERTa.CINO-base-v2+TNCC-title/README.md
+!/data/Victim.XLM-RoBERTa.CINO-base-v2+TNCC-document/README.md
+!/data/Victim.XLM-RoBERTa.CINO-large-v2+TU_SA/README.md
+!/data/Victim.XLM-RoBERTa.CINO-large-v2+TNCC-title/README.md
+!/data/Victim.XLM-RoBERTa.CINO-large-v2+TNCC-document/README.md
