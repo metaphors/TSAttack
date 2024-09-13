@@ -12,3 +12,6 @@ python examples/OpenAttack/CINO-large-v2+TU_SA.py
 python examples/OpenAttack/CINO-large-v2+TNCC-title.py
 python examples/OpenAttack/CINO-large-v2+TNCC-document.py
 ```
+
+AdvTS.zip
+password: 2024
